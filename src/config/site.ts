@@ -153,7 +153,6 @@ const site: SiteConfig = {
   ],
 
   footerLinks: [
-    { path: '/', labelKey: 'nav.home' },
     { path: '/manus-basics', labelKey: 'site.nav.manusBasics' },
     { path: '/core-features', labelKey: 'site.nav.coreFeatures' },
     { path: '/community/board', labelKey: 'nav.community' },
